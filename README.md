@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**mathews-hos/mathews-hos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍ hi, i'm Mathews Henrique
+- 🌱 currently studying
+  - ✅ Programming logic - *SENAC GO*
+  - ▶ Web development - *SENAC GO*
+- tecnologies
+  - html
+  - bootstrap
+- 🤔 I’m looking for anyone who wants give me money for study better
+- mail: mathewshosoars@gmail.com
+- <a href="http://www.linkedin.com/in/mathews-hos">linkedin</a>
