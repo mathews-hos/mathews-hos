@@ -6,5 +6,5 @@
   - html
   - bootstrap
 - 🤔 I’m looking for anyone who wants give me money for study better
-- mail: mathewshosoars@gmail.com
+- mail: mathewshosoares@gmail.com
 - <a href="http://www.linkedin.com/in/mathews-hos">linkedin</a>
